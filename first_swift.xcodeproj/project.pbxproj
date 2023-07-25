@@ -42,6 +42,7 @@
 		9D61469423E111370012F4E4 = {
 			isa = PBXGroup;
 			children = (
+				FEF5BBFF2A6FC5C900A1ADB8 /* README.md */,
 				9D61469F23E111370012F4E4 /* first_swift */,
 				9D61469E23E111370012F4E4 /* Products */,
 			);
@@ -59,7 +60,6 @@
 			isa = PBXGroup;
 			children = (
 				9D6146A023E111370012F4E4 /* main.swift */,
-				FEF5BBFF2A6FC5C900A1ADB8 /* README.md */,
 			);
 			path = first_swift;
 			sourceTree = "<group>";
